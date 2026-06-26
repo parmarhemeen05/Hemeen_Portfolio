@@ -7,7 +7,7 @@ A modern, responsive, and recruiter-friendly personal portfolio website built to
 
 ## 🚀 Live Demo
 
-🔗 Portfolio Website:https://parmarhemeen05.github.io/Hemeen_Portfolio/
+🔗 Portfolio Website:
 
 ---
 
